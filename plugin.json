@@ -1,0 +1,14 @@
+
+{
+  "name": "plugin-with-brain",
+  "version": "0.1.0",
+  "description": "A modular toolkit for designing, creating, evaluating, and optimizing AI plugins, skills, and agents through specialized instructions, structured context, and knowledge resources.",
+  "type": "ai-toolkit",
+  "license": "UNLICENSED",
+  "skills": [
+    "analyze-sources",
+    "plugin",
+    "skill",
+    "agent"
+  ]
+}
