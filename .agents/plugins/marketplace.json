@@ -1,0 +1,21 @@
+{
+  "name": "nikola-plugins",
+  "interface": {
+    "displayName": "Nikola's Plugins"
+  },
+  "plugins": [
+    {
+      "name": "plugin-with-brain",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Bot-tesla369/Plugin-with-Brain.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
